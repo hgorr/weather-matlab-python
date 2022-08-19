@@ -1,0 +1,10 @@
+setup.py
+AirQual/AirQual.ctf
+AirQual/__init__.py
+matlabruntimeforpython.egg-info/.MATLABDriveTag
+matlabruntimeforpython.egg-info/PKG-INFO
+matlabruntimeforpython.egg-info/SOURCES.txt
+matlabruntimeforpython.egg-info/dependency_links.txt
+matlabruntimeforpython.egg-info/top_level.txt
+predictAirQual/__init__.py
+predictAirQual/predictAirQual.ctf

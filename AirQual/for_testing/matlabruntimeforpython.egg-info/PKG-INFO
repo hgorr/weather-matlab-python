@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: matlabruntimeforpython
+Version: R2022a
+Summary: A module to call MATLAB from Python
+Home-page: https://www.mathworks.com/
+Author: MathWorks
+License: UNKNOWN
+Platform: Linux
+Platform: Windows
+Platform: MacOS
+
+UNKNOWN
+
